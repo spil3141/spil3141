@@ -5,6 +5,8 @@
 E = Exercising
 S = Socializing}
 
+---
+
 ### Game Development Projects
 
 [Rewind Runner](https://spil3141.itch.io/game-jam-1)
