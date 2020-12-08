@@ -6,7 +6,11 @@ E = Exercising
 S = Socializing}
 
 ### Game Development Projects
-[Itch.io](https://itch.io/profile/spil3141)
+
+[Rewind Runner](https://spil3141.itch.io/game-jam-1)
+
+[After Life](https://spil3141.itch.io/after-life)
+
 <!--
 **spil3141/spil3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
