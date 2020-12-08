@@ -5,6 +5,8 @@
 E = Exercising
 S = Socializing}
 
+#### Extra
+[Itch.io](https://itch.io/profile/spil3141)
 <!--
 **spil3141/spil3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
