@@ -1,6 +1,7 @@
 ### 🤔 I’m currently working on stuff 
 
-> Motto: [(L + E + S) * M] = HappyLife
+#### Motto: 
+> [(L + E + S) * M] = HappyLife
 
 where
  - L = Learning
