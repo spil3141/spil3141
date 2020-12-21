@@ -1,10 +1,12 @@
 ### 🤔 I’m currently working on stuff 
 
 > Motto: [(L + E + S) * M] = HappyLife
-{L = Learning
-E = Exercising
-S = Socializing
-M = Motivation} 
+
+where
+ - L = Learning
+ - E = Exercising
+ - S = Socializing
+ - M = Motivation} 
 
 ---
 
