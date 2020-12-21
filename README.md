@@ -1,9 +1,10 @@
 ### 🤔 I’m currently working on stuff 
 
-> Motto: L + E + S = AwesomeLife
+> Motto: [(L + E + S) * M] = HappyLife
 {L = Learning
 E = Exercising
-S = Socializing}
+S = Socializing
+M = Motivation} 
 
 ---
 
