@@ -6,7 +6,7 @@ where
  - L = Learning
  - E = Exercising
  - S = Socializing
- - M = Motivation} 
+ - M = Motivation 
 
 ---
 
