@@ -11,7 +11,7 @@ where
 
 ---
 
-### Game Development Projects
+### Some game development projects that i have worked on. 
 
 - [Rewind Runner](https://spil3141.itch.io/game-jam-1)
 
