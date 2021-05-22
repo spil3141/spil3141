@@ -17,6 +17,12 @@ Some game development projects that i have worked on.
 
 - [After Life](https://spil3141.itch.io/after-life)
 
+--- 
+
+Deep Learning Research Projects
+
+- [Android Malware Detection Using Vision Transformer](https://github.com/spil3141/AMDUsingVIT)
+
 <!--
 **spil3141/spil3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
