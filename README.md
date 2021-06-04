@@ -21,8 +21,10 @@ Some game development projects that i have worked on.
 
 Deep Learning Research Projects
 
+- [Android Malware Detection Using InceptionResNetV2](https://github.com/spil3141/Android-Malware-Detection-with_InceptionResNetV2)
 - [Android Malware Detection Using Vision Transformer](https://github.com/spil3141/AMDUsingVIT)
 - [Snake Species Identification Challenge 2020-6](https://github.com/spil3141/snake-species-identification-challenge-2020-06)
+
 
 <!--
 **spil3141/spil3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
