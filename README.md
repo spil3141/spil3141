@@ -23,6 +23,7 @@ Deep Learning Research Projects
 
 - [Android Malware Detection Using InceptionResNetV2](https://github.com/spil3141/Android-Malware-Detection-with_InceptionResNetV2)
 - [Android Malware Detection Using Vision Transformer](https://github.com/spil3141/AMDUsingVIT)
+- [Android Malware Detection Utilizing Architectures for Sequential Modeling](https://github.com/spil3141/Reseach-2-Malware-Detection-using-1D-CNN-and-RNN)
 - [Snake Species Identification Challenge 2020-6](https://github.com/spil3141/snake-species-identification-challenge-2020-06)
 
 
