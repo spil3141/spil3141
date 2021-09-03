@@ -1,7 +1,7 @@
 ### 🤔 I’m currently working on stuff 
 
 #### Motto: 
-> [(L + E + S) * M] = HappyLife
+> [(L + E + S) * M] = Awesome life
 
 where
  - L = Learning
