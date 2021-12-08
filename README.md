@@ -21,7 +21,6 @@ Some game development projects that i have worked on.
 
 Deep Learning Research Projects
 
-- [G-Seg](https://github.com/spil3141/G-Seg)
 - [Android Malware Detection Using InceptionResNetV2](https://github.com/spil3141/Android-Malware-Detection-with_InceptionResNetV2)
 - [Android Malware Detection Using Vision Transformer](https://github.com/spil3141/AMDUsingVIT)
 - [Android Malware Detection Utilizing Architectures for Sequential Modeling](https://github.com/spil3141/Reseach-2-Malware-Detection-using-1D-CNN-and-RNN)
