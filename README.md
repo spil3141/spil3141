@@ -1,13 +1,3 @@
-### 🤔 I’m currently working on stuff 
-
-#### Motto: 
-> [(L + E + S) * M] = Healthy mind
-
-where
- - L = Learning
- - E = Exercising
- - S = Socializing
- - M = Motivation 
 
 ---
 
