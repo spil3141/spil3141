@@ -48,9 +48,3 @@ Master's-era and independent research, focused on malware detection and image cl
 - [Snake Species Identification Challenge 2020-06](https://github.com/spil3141/snake-species-identification-challenge-2020-06)
 
 ---
-
-<sub>
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spil3141&layout=compact&langs_count=10&theme=dracula&hide_border=true)](https://github.com/spil3141)
-
-</sub>
