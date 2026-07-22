@@ -4,7 +4,7 @@
 
 <p align="center">
 I build interactive 3D applications, XR/VR experiences, digital exhibits,<br>
-and Unity tools—with speech, vision, and on-device AI integration.
+and Unity tools with speech, vision, and on-device AI integration.
 </p>
 
 <p align="center">
