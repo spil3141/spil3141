@@ -10,10 +10,3 @@ and Unity tools with speech, vision, and on-device AI integration.
 <p align="center">
 [View my portfolio →](https://spil3141.github.io/)
 </p>
-
-### Focus
-
-- Interactive Unity and XR/VR applications
-- AI integration using speech, computer vision, and runtime inference
-- Educational simulations and digital exhibits
-- Reusable Unity Editor tools and optimized application architecture
